@@ -9,7 +9,7 @@ android {
     compileSdk = Versions.App.COMPILE_SDK
 
     defaultConfig {
-        applicationId = "foundation.program.template.android.app"
+        applicationId = "foundation.program.spotify.android.app"
 
         minSdk = Versions.App.MIN_SDK
         targetSdk = Versions.App.TARGET_SDK
